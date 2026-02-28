@@ -59,6 +59,10 @@ This benchmark uses the [GlobalBuildingAtlas](https://mediatum.ub.tum.de/1782307
 }
 ```
 
+## DOI
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18812079.svg)](https://doi.org/10.5281/zenodo.18812079)
+
 ## License
 
 MIT
