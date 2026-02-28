@@ -53,7 +53,7 @@ This benchmark uses the [GlobalBuildingAtlas](https://mediatum.ub.tum.de/1782307
 ```bibtex
 @article{chretien2026gba-facade,
   title={GBA-Facade: Benchmarking the GlobalBuildingAtlas for Autonomous Facade Maintenance at Planetary Scale},
-  author={Chretien, Enguerand and Winckler, Jean-Philippe},
+  author={Chretien, Enguerand and Jouanno, Theophile and Winckler, Jean-Philippe},
   year={2026},
   note={Preprint}
 }
